@@ -2,6 +2,8 @@
 
 Codeigniter NewsLetter is an admin panel for email subscription newsletter written in PHP and MySQL using codeigniter framework. Installation process of the script is very simple. Administration is very user friendly. 
 
+![Groups](https://github.com/hemanthingave/newsletter-in-codeigniter/blob/master/screenshot/newsletter.png?raw=true) 
+
 Framework and technology:
 -----------------
 
