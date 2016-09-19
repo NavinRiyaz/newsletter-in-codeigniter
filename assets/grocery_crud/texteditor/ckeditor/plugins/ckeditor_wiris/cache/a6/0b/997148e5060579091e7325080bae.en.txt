@@ -1,0 +1,1 @@
+fraction numerator sin f over denominator cos g h end fraction

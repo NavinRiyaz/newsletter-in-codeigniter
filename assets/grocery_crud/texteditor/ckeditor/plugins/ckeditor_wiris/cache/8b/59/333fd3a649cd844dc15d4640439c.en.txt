@@ -1,0 +1,1 @@
+sum subscript sin open parentheses x close parentheses end subscript asterisk times stack l i m with blank rightwards arrow infinity below fraction numerator sin x over denominator cos x end fraction
