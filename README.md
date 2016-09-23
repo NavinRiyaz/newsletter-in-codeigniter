@@ -44,7 +44,7 @@ Functionality
 How to use
 -----------------
 
-* Run schema.sql file to create the structure of the database.
+* Create database and import schema.sql file to create the structure of the database.
 * Setup codeigniter config files i.e. base_url in  config.php located at  application/config, database.php for database connection.
 * To upload image using CKEditor, change url path in file config.js. Located at  assets\grocery_crud\texteditor\ckeditor\config.js.
 * Enjoy
